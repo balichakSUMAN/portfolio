@@ -1,0 +1,5 @@
+/*
+  SPA Fallback for React Router on static hosts
+  This will redirect all requests to index.html
+*/
+/*    /index.html   200
