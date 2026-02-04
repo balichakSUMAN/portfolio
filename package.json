@@ -1,7 +1,9 @@
 {
-  "name": "react",
+  "name": "balichaksuman-portfolio",
+  "description": "Personal portfolio website showcasing Balichak Suman's skills, experience, education, projects, and achievements. Built with React, Vite, and Tailwind CSS.",
+  "author": "Balichak Suman <balichaksumann@gmail.com>",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
